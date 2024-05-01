@@ -338,7 +338,7 @@ body {
 .v2_86 {
   width: 651px;
   height: 54px;
-  background: url("images/v2_86.png");
+  background: url("../images/v2_86.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -356,7 +356,8 @@ body {
 .v2_87 {
   width: 24px;
   height: 24px;
-  background: rgba(255,255,255,1);
+  background: url("../images/v2_86.png");
+  /*background: rgba(255,255,255,1);*/
   opacity: 1;
   position: absolute;
   top: 15px;
